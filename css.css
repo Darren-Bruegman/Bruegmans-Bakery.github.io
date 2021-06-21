@@ -1,0 +1,14 @@
+a.banner {
+text-decoration: none;
+color: lightgray;
+font-size: 24;
+
+}
+a.banner:hover {
+
+text-decoration: none;
+color: gray;
+background-color: violet;
+font-size: 24;
+font-weight: bolder;
+} 
